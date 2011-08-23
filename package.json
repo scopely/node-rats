@@ -7,7 +7,8 @@
         "scopely",
         "node",
         "analytics",
-        "realtime"
+        "realtime",
+        "rats"
     ],
     "contributors": [
         {
@@ -17,7 +18,7 @@
         },
         {
             "name": "Gabriel Teodoru",
-            "email": "gabriel@scopely.com",
+            "email": "gabriel@scopely.com"
         }
     ],
     "maintainers":[
@@ -25,12 +26,16 @@
             "name": "Ankur Bulsara",
             "email": "ankur@scopely.com",
             "web": "http://ankur.org"
+        },
+        {
+            "name": "Gabriel Teodoru",
+            "email": "gabriel@scopely.com"
         }
     ],
     "repositories": [
         {
             "type": "git",
-            "url": "https://hyperlight@github.com/scopely/node-rats.git"
+            "url": "git@github.com:scopely/node-rats.git"
         }
     ],
     "engines": {
