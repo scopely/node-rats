@@ -1,0 +1,40 @@
+{
+    "name": "node-rats",
+    "version": "0.0.1",
+    "description": "node-rats - Node client for RATS",
+    "homepage": "https://github.com/scopely/node-rats",
+    "keywords": [
+        "scopely",
+        "node",
+        "analytics",
+        "realtime"
+    ],
+    "contributors": [
+        {
+            "name": "Ankur Bulsara",
+            "email": "ankur@scopely.com",
+            "web": "http://ankur.org"
+        },
+        {
+            "name": "Gabriel Teodoru",
+            "email": "gabriel@scopely.com",
+        }
+    ],
+    "maintainers":[
+        {
+            "name": "Ankur Bulsara",
+            "email": "ankur@scopely.com",
+            "web": "http://ankur.org"
+        }
+    ],
+    "repositories": [
+        {
+            "type": "git",
+            "url": "https://hyperlight@github.com/scopely/node-rats.git"
+        }
+    ],
+    "engines": {
+        "node": ">= 0.4.10"
+    },
+    "dependencies": {}
+}
